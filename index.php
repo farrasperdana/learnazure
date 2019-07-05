@@ -26,7 +26,7 @@
        <input type="submit" name="load_data" value="Load Data" />
  </form>
  <?php
-    $host = "<farras@farrasdb>";
+    $host = "<farrasdb.database.windows.net>";
     $user = "<farras>";
     $pass = "<Perdana10!>";
     $db = "<farrasdb>";
